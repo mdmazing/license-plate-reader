@@ -1,6 +1,6 @@
 # License Plate Reader
 
-Simple desktop app for detecting and reading car license plates from uploaded images.
+Simple desktop app for detecting and reading mainly car license plates from uploaded images. It can also detect numbers and letters from other images but it is mainly for license plates.
 
 ## Features
 - Upload car image
